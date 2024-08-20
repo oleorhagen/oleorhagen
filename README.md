@@ -16,8 +16,6 @@ I have commits in many open source repositories. Where some I am proud of are:
 - 🌱 I’m currently learning Reverse Engineering (thanks @DennisYurichev)
 - 🔭 I’m currently working on _My xploit skills_
 
-## Languages and Tools
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
