@@ -39,5 +39,12 @@ I have commits in many open source repositories. Where some I am proud of are:
    <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
      <img src="https://cdn.worldvectorlogo.com/logos/emacs-1.svg" alt="jenkins" width="40" height="40"/>
    </a>
+</p>
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ole-petter-orhagen-ab6943187/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ole-petter-orhagen-ab6943187/" height="30" width="40" />
+  </a>
 </p>
