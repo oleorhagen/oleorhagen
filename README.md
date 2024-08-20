@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ole P.
 
-I'm currently a backend-developer at @mimiro-io
+I'm currently a `backend-developer` at @mimiro-io
 
 Previously, I worked with `embedded Linux` at @mendersoftware.
 
