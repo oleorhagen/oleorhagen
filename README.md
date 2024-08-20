@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Ole P.
 
----
-
 I'm currently a backend-developer at @mimiro-io
 
 Previously, I worked with `embedded Linux` at @mendersoftware.
@@ -12,8 +10,6 @@ I have commits in many open source repositories. Where some I am proud of are:
 - [U-Boot](https://github.com/u-boot/u-boot/commits/master/?author=oleorhagen)
 - [Mender Client](https://github.com/mendersoftware/mender/commits/master/?author=oleorhagen)
 - [CFEngine](https://github.com/cfengine/core/commits/master/?author=oleorhagen)
-
----
 
 ##  More
 
